@@ -1,0 +1,55 @@
+region,state,city,total_sales
+Midwest,Illinois,Chicago,9797488
+Midwest,Indiana,Indianapolis,8836198
+Midwest,Iowa,Des Moines,7424011
+Midwest,Kansas,Wichita,9972864
+Midwest,Michigan,Detroit,18625433
+Midwest,Minnesota,Minneapolis,7227506
+Midwest,Missouri,St. Louis,9683265
+Midwest,Montana,Billings,15710886
+Midwest,Nebraska,Omaha,5929038
+Midwest,North Dakota,Fargo,7735580
+Midwest,Ohio,Columbus,18484583
+Midwest,South Dakota,Sioux Falls,8495576
+Midwest,Wisconsin,Milwaukee,7727469
+Northeast,Connecticut,Hartford,11573448
+Northeast,Delaware,Wilmington,12298412
+Northeast,Maine,Portland,9195978
+Northeast,Maryland,Baltimore,7758059
+Northeast,Massachusetts,Boston,11076810
+Northeast,New Hampshire,Manchester,16411667
+Northeast,New Jersey,Newark,9934246
+Northeast,New York,Albany,24427804
+Northeast,New York,New York,39801235
+Northeast,Pennsylvania,Philadelphia,10357519
+Northeast,Rhode Island,Providence,8446806
+Northeast,Vermont,Burlington,14352923
+Northeast,West Virginia,Charleston,10689160
+South,Alabama,Birmingham,17633424
+South,Arkansas,Little Rock,12639347
+South,Louisiana,New Orleans,23750781
+South,Mississippi,Jackson,15591709
+South,Oklahoma,Oklahoma City,10620734
+South,Tennessee,Knoxville,18067440
+South,Texas,Dallas,20902864
+South,Texas,Houston,25456882
+Southeast,Florida,Miami,31600863
+Southeast,Florida,Orlando,27682851
+Southeast,Georgia,Atlanta,18997466
+Southeast,Kentucky,Louisville,10072848
+Southeast,North Carolina,Charlotte,23956531
+Southeast,South Carolina,Charleston,29285637
+Southeast,Virginia,Richmond,21575040
+West,Alaska,Anchorage,14753103
+West,Arizona,Phoenix,15782221
+West,California,Los Angeles,25634913
+West,California,San Francisco,33973228
+West,Colorado,Denver,20996536
+West,Hawaii,Honolulu,22282457
+West,Idaho,Boise,19276878
+West,Nevada,Las Vegas,20858509
+West,New Mexico,Albuquerque,19865016
+West,Oregon,Portland,21349674
+West,Utah,Salt Lake City,9696420
+West,Washington,Seattle,26330718
+West,Wyoming,Cheyenne,18577517
